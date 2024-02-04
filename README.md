@@ -1,6 +1,6 @@
 # network_security_labs
 
-# Hey, first of all, thanks for taking the time to read this! 
+# Hey, first of all, thanks for taking the time to read this! (the preview way is ugly, so you should read this in the code form)
 
 # I will primarily be using GitHub as a housing place for all of the reports I write on various projects.
 # The class this repository is based on is my Network Security Class. The class has 5 labs which are: 
